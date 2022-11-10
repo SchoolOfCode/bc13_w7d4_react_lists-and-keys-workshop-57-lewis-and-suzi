@@ -3,7 +3,7 @@ import React from 'react';
 import './index.css';
 
 function Post() {
-  return <article>hello</article>;
+  return <article></article>
 }
 
 export default Post;
